@@ -10,9 +10,9 @@
 
 echo "✅ FASE 0: Definiendo las variables del entorno..."
 export REGION="us-west1"
-export ZONE="us-west1-b"
-export BUCKET_NAME="qwiklabs-gcp-02-daa0d7509c2f-bucket"
-export TOPIC_NAME="topic-memories-312"
+export ZONE="us-west1-a"
+export BUCKET_NAME="qwiklabs-gcp-02-59ae4ae62378-bucket"
+export TOPIC_NAME="topic-memories-430"
 export FUNCTION_NAME="memories-thumbnail-generator"
 
 # Obtenemos el ID y el Número del Proyecto automáticamente.
